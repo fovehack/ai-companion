@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![ia1](https://github.com/fovehack/ai-companion/assets/117688833/ca9cd07d-8f79-4fd2-bc05-80ccf1ee1d0a)
+
 ## Getting Started
 
 First, run the development server:
